@@ -3,3 +3,4 @@ folium
 streamlit-folium 
 openpyxl 
 pandas
+watchdog==4.0.2
